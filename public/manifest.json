@@ -1,0 +1,8 @@
+{
+  "short_name": "WeworkUy",
+  "name": "Reunimos las mejores propuestas de trabajo en el sector tecnológico de Uruguay",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
